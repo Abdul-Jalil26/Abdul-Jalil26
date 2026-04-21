@@ -67,15 +67,7 @@ AI Engineer | Machine Learning • Deep Learning • LLMs | Programmer
 
 </div>
 
----
 
-### 🧩 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg" />
-
-</div>
 
 ---
 
