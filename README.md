@@ -72,5 +72,14 @@ AI Engineer | Machine Learning • Deep Learning • LLMs | Programmer
 ---
 
 <div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnByZ3dmd2E5OXJyb3ZoeXJvcXduMnlxcG1wNXd1dGg5b2YzYXlhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yqiw4XZ1LhMRRCL2ZO/giphy.gif"/>
+  <table>
+    <tr>
+      <td>
+        <img height="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnByZ3dmd2E5OXJyb3ZoeXJvcXduMnlxcG1wNXd1dGg5b2YzYXlhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yqiw4XZ1LhMRRCL2ZO/giphy.gif"/>
+      </td>
+      <td>
+        <img height="350" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"/>
+      </td>
+    </tr>
+  </table>
 </div>
