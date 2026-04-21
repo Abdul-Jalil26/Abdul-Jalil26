@@ -19,7 +19,8 @@ AI Engineer | Machine Learning • Deep Learning • LLMs | Programmer
 ### 🚀 About Me
 
 - 🧠 Passionate about **AI, Machine Learning & LLM Systems**
-- ⚙️ Building scalable and real-world intelligent systems  
+- ⚙️ Building scalable and real-world intelligent systems
+- 🤝 Looking to collaborate on: **Open-source projects and innovative research**  
 - ✍️ I write articles on:  
   👉 https://abduljalil.great-site.net/
 - 📫 Reach me at: **ajtamjid@gmail.com**
